@@ -1,15 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Anees Ahmed Larik</h1>
-<h3 align="center">Python Developer / Vibe Coder</h3>
+<h3 align="center">Python Developer / AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aneesahmedlarik&label=Profile%20views&color=0e75b6&style=flat" alt="aneesahmedlarik" /> </p>
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently working on Data Science 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, Sukkur Institute of Business Administration.
+- 🎓 &nbsp; Graduated Computer Science, Sukkur Institute of Business Administration.
 - 💼 &nbsp; Java developer and Mern Stack Developer.
 - 🌱 &nbsp; Enthusiast in Vibe coding and Artificial Intelligence.
 - ✍️ &nbsp; Watching historic webseries and trying out the latest design trends as hobbies/side hustles.
